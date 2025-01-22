@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, Welcome! 👋
 
-<!--
+## I'm Mandyson Bernard. An entry level cyber analyst from Haiti. I am eager to apply my exiting knowledge in the field and learn new things.
 **bmandyson/bmandyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
