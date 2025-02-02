@@ -1,14 +1,10 @@
 ## Hi there, Welcome! 👋
 
 ## I'm Mandyson Bernard. An entry level cyber analyst from Haiti. I am eager to apply my exiting knowledge in the field and learn new things.
-**bmandyson/bmandyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18512474/Controls.and.compliance.checklist.pdf)
-- [Company.pdf](https://github.com/user-attachments/files/18512475/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
-
+- [Controls and compliance checklist.pdf](https://github.com/user-attachments/files/18512474/Controls.and.compliance.checklist.pdf) for [Company.pdf](https://github.com/user-attachments/files/18512475/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
 - 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
